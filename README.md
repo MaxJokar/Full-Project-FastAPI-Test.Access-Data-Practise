@@ -14,4 +14,4 @@ JWT Access Token(AUthentication using jwt)
 Route behind authentication
 Deploy fastAPI app
 Refactor for bigger Application 
-Deploy FastAPI(using Deta)
+Deploy FastAPI(using Deta.sh)
